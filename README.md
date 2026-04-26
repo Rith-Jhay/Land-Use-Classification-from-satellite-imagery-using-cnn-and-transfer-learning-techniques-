@@ -114,7 +114,7 @@ unzip EuroSAT_RGB.zip
 
 Open the Jupyter Notebook or Google Colab file:
 
-Assignment_2_Group_Research_Project.ipynb
+Code-file_Group_36.ipynb
 
 ### Step 4: Run the Code
 
