@@ -1,0 +1,1 @@
+# Land-Use-Classification-from-satellite-imagery-using-cnn-and-transfer-learning-techniques-
