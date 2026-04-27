@@ -124,3 +124,21 @@ Load dataset
 Train models
 Evaluate performance
 Generate visualizations
+
+---
+
+## Group Contributions
+
+| Member | Contributions |
+|--------|--------------|
+| Rith Jayaseelan (Project Lead) | Overall project coordination, model design (Custom CNN & EfficientNet), training pipeline implementation, evaluation and results analysis, report writing (methodology & results), README preparation |
+| Chinni Venkata Sai Karthik Maddipatla | Dataset acquisition, preprocessing pipeline, data augmentation, dataset organization, report writing (dataset section) |
+| Sudhit Jalay | Literature review, research analysis, model comparison study, report writing (literature review) |
+| Abhishek Debarki | Model training support, hyperparameter tuning, validation process, evaluation metrics analysis |
+| Komirelly Kranthi Reddy | Results visualization, confusion matrix generation, presentation preparation, conclusion & future scope |
+
+---
+
+## AI Usage Declaration
+
+The content and implementation of this project were fully developed by the team members. Artificial Intelligence (AI) tools were used only for basic grammar checking and minor language refinement in the report and documentation. No AI tools were used to generate the core technical content, model implementation, results, or analysis. 
