@@ -103,8 +103,11 @@ The custom CNN outperformed the pretrained model, indicating better adaptation t
 
 ## How to Run the Project
 
-### Step 1: Install Dependencies
-pip install torch torchvision matplotlib seaborn pandas
+### Step 1: Install Requirements
+
+Install dependencies using:
+
+pip install -r requirements.txt
 
 ### Step 2: Download Dataset 
 wget https://zenodo.org/records/7711810/files/EuroSAT_RGB.zip
